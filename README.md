@@ -1,1 +1,1 @@
-# script
+# Standardskripts
